@@ -1,0 +1,76 @@
+body {
+    margin: 0;
+    font-family: 'Times New Roman'
+}
+
+.reflien {
+    border-radius: 10px 10px 10px;
+    height: 50px;
+}
+
+.ref {
+    height: 80px;
+}
+
+.logo {
+    float: left;
+    position: relative;
+}
+
+.logo-icon {
+    float: left;
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    margin-top: 2px;
+    /*animation: roundAndRound 3s ease-in-out infinite;*/
+}
+.profil{
+    width: 100%;
+    height: 350px;
+    /*margin-top: 2px;*/
+}
+
+.logo-ti {
+    margin-left: 80px;
+}
+
+.onglet {
+    border: 0px solid #333;
+    /*position: fixed;*/
+}
+
+.header {
+    background-image: url('../img/image81.jpg');
+}
+
+.presentation {
+    margin-top: 3%;
+    /* background-image: url('../img/lights.jpg');*/
+}
+
+.services {
+    margin-top: 120px;
+}
+
+.servicetitle {
+    border-radius: 5px 5px 5px;
+    height: 35px;
+}
+
+.heading-icon-parent {
+    text-align: center;
+}
+
+.heading-icon {
+    display: block;
+    width: 50px;
+    margin: 0 auto;
+    font-size: 3em;
+}
+
+.blog {
+    border-radius: 10px 10px 10px;
+}
+
+/*Ajout de photo person 5 postBlog, Profil ,style.css*/
