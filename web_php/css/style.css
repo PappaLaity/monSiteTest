@@ -3,6 +3,7 @@ body {
     font-family: 'Times New Roman'
 }
 
+
 .reflien {
     border-radius: 10px 10px 10px;
     height: 50px;
@@ -39,6 +40,12 @@ body {
     border: 0px solid #333;
     /*position: fixed;*/
 }
+
+/*
+#particles-js{
+    height: 50%;
+    background: #000;
+}*/
 
 .header {
     background-image: url('../img/image81.jpg');

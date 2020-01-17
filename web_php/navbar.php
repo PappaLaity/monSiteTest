@@ -18,9 +18,9 @@
                     <li class="nav-item ">
                         <a class="nav-link" href="portfolio.php">Profil</a>
                     </li>
-                    <li class="nav-item">
+<!--                    <li class="nav-item">
                         <a class="nav-link" href="blog.php">Blog</a>
-                    </li>
+                    </li>-->
                     <?php
                     if (isset($_SESSION['user'])){   
 

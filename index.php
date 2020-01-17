@@ -10,5 +10,5 @@ session_start();
 <ul class="linksite">
     <li ><a href="web_php/index.php">monsite</a></li>
     <li ><a href="#">Huile de Coco site</a></li>
-    
+    <li ><a href="portfolio/views/index.html">My Portfolio</a></li>
 </ul>

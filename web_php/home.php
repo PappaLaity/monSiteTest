@@ -1,3 +1,6 @@
+<div id="particles-js">
+
+</div>
 <div class="main">
             <div class="home">
                 <div class="container presentation">
@@ -28,7 +31,7 @@
                                     <h4 class="card-title">Web</h4>
                                     <p class="card-text">Site Web. HTML-CSS, PHP-MYSQL <br/>
                                           Framework Bootsrap, Symfony <br/>
-                                          Wordpress, Joomla                                          
+                                          Wordpress, Joomla
                                      </p>
                                 </div>
                             </div>
